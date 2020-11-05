@@ -1,0 +1,7 @@
+## Abstract
+
+An overview of routine and service development work within the context of radiotherapy physics and bioinformatics is presented, with a view to providing a meaningful introduction to an audience unfamiliar with clinical science and medical physics. There is a particular focus on research and clinical service development work performed by the author, emphasising the central importance of scientific computing to the delivery and continuous improvement of a modern radiotherapy service.
+Following a brief summary of the relevant clinical science background information, an overview is given of an image quality and dose optimisation project for pre-treatment imaging, which involved a multivariate mixed-effect regression analysis using the R language for statistical computing; a project to commission the QATrack application for routine use and to expand the scope of departmental work performed within it; and the development of a Python tool to facilitate the analysis of patient position data as part of an ongoing research project. These examples illustrate the importance of interdisciplinary work in clinical science, as well as the relevance of scientific computing to the improvement of clinical service provision.
+
+## Rationale
+My presentation aims to illustrate the early career of an LGBT person working in clinical science, thus increasing the visibility of LGBT people within the field and promoting awareness of careers in clinical science among LGBT people.
